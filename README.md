@@ -1,0 +1,2 @@
+# DotNetTemplate
+NET project template.
